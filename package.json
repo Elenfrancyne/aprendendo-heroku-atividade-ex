@@ -1,0 +1,16 @@
+{
+    "name": "aprendendo-heroku-atividade-extra",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "express": "^4.18.1"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "node index"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
